@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jedsen Borseth</h1>
-<h3 align="center">A passionate full-stack developer from Vancouver, Canada</h3>
+<h3 align="center">A passionate full-stack developer from Abbotsford BC, Canada</h3>
 
 - 🔭 I’m currently working on [R&L Inventory Manager](https://github.com/R-L-Packaging)
 
